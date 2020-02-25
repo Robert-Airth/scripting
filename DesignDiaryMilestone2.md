@@ -29,4 +29,4 @@ I wanted the column headings to display properly in Excel.  This was a rewarding
 looking forward to continuing working with Python for creating the scripts to automate all of my other 
 ideas.
 
-![Milestone2Demo](https://github.com/rja45/scripting/Milestone02.gif)
+![Milestone2Demo](https://github.com/rja45/scripting/blob/master/Milestone02.gif)
