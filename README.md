@@ -1,2 +1,5 @@
-# scripting
-scripting Milestone for CS 232 Python
+# Required Modules
+* pip install feedparser
+
+# Suggest VSC Extension
+* XML Tools by Josh Johnson
