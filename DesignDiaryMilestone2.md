@@ -16,16 +16,17 @@ would like to make scripts to suit such needs, but for now I decided to stick wi
 to meet the objectives for this Milestone.
 
 For my Milestone 2, I decided to stick with the default Milestone objective of accepting 2 or more
-RSS feeds, filtering based on time, and sorting based on time. I struggled with understanding the
-syntax of how the Python feedparser library worked. I struggled figuring out how to get the date
-of the feeds for sorting after I modified the given code to filter based on the past 24 hours
-instead of past 1 hour. I ended up understanding how the code to filter could be written by
-writing a separate function and calling it or by using a lambda to achieve the same thing more
-succinctly and "pythonically". After that hurdle, my next hurdle was exporting the feed data as
-a .csv file. This took a bit of working through because I did not understand the difference between
-writing to a csv with a typical file write as opposed to writing to the a csv with a csvwriter 
-function. The csv writer function ended up making my formatting easier to figure out since I wanted
-the column headings to display properly in Excel.  This was a rewarding Milestone and I am looking 
-forward to continuing working with Python for creating the scripts to automate all of my other ideas.
+RSS feeds, filtering based on time, merging the feeds, and sorting those feeds based on time. I 
+struggled with understanding the syntax of how the Python feedparser library worked. I struggled
+figuring out how to get the date of the feeds for sorting after I modified the given code to filter 
+based on the past 24 hours instead of past 1 hour. I ended up understanding how the code to filter 
+could be written by writing a separate function and calling it or by using a lambda to achieve the 
+same thing more succinctly and "pythonically". After that hurdle, my next hurdle was exporting the 
+feed data as a .csv file. This took a bit of working through because I did not understand the 
+difference between writing to a csv with a typical file write as opposed to writing to the a csv with 
+a csvwriter function. The csv writer function ended up making my formatting easier to figure out since 
+I wanted the column headings to display properly in Excel.  This was a rewarding Milestone and I am 
+looking forward to continuing working with Python for creating the scripts to automate all of my other 
+ideas.
 
-![Milestone2Demo](https://github.com/rja45/flask-blog/blob/master/Milestone01.gif)
+![Milestone2Demo](https://github.com/rja45/scripting/Milestone02.gif)
